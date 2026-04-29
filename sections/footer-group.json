@@ -20,32 +20,16 @@
             "heading": "Shop",
             "menu": "footer"
           }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Explore",
-            "menu": "footer"
-          }
-        },
-        "footer-2": {
-          "type": "link_list",
-          "settings": {
-            "heading": "More",
-            "menu": "footer"
-          }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1",
-        "footer-2"
+        "footer-0"
       ],
       "settings": {
         "show_divider": true,
         "newsletter_enable": true,
-        "newsletter_heading": "Exclusive benefits",
-        "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.</p>",
+        "newsletter_heading": "",
+        "newsletter_text": "",
         "return_url": "",
         "enable_follow_on_shop": true,
         "show_social": true,
