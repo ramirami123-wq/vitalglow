@@ -9,8 +9,8 @@
  */
 {
   "current": {
-    "colors_solid_button_labels": "#212326",
-    "colors_accent": "#faeaa1",
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent": "#000000",
     "colors_background": "#ffffff",
     "colors_text": "#212326",
     "colors_heading": "#1a1b18",

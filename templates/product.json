@@ -1,1 +1,627 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":36,"mobile_height":16}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2","show_price":false,"price_size":"medium"}},"rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{"price_size":"medium","show_badges":true}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"variant_picker":{"type":"variant_picker","settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"description":{"type":"description","settings":{}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":false,"show_dynamic_checkout":true}},"inventory_status":{"type":"inventory_status","settings":{"inventory_threshold":20,"show_inventory_transfer":true,"color_scheme":"accent-3"}},"share":{"type":"share","settings":{"share_label":"Share"}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","countdown","variant_picker","description","collapsible_tab-0","collapsible_tab-1","buy_buttons","inventory_status","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_position":"left","media_size":"medium","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":72}},"scrolling-promotion":{"type":"scrolling-promotion","blocks":{"announcement-0":{"type":"announcement","settings":{"icon":"none","icon_size":"medium","custom_icon":"","text":"FREE SHIPPING on all orders over $100","text_size":16,"link":""}},"announcement-1":{"type":"announcement","settings":{"icon":"none","icon_size":"medium","custom_icon":"","text":"EASY RETURNS 30-day postage paid returns","text_size":16,"link":""}},"announcement-3":{"type":"announcement","settings":{"icon":"none","icon_size":"medium","custom_icon":"","text":"10% OFF your first order | Use code: FIRST10","text_size":16,"link":""}}},"block_order":["announcement-0","announcement-1","announcement-3"],"settings":{"direction":"left","speed":1.6,"show_divider":false,"use_custom_colors":true,"colors_icon":"#f1ff34","colors_text":"#212326","colors_background":"#f2f2f2","gradient_background":"","padding_top":28,"padding_bottom":28}},"guarantees":{"type":"guarantees","blocks":{"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","icon_size":"medium","custom_icon":"","title":"Guarantee heading","title_size":"h4","text":"<p>Welcome to our store.<\/p>"}},"guarantee-1":{"type":"guarantee","settings":{"icon":"globe","icon_size":"medium","custom_icon":"","title":"Guarantee heading","title_size":"h4","text":"<p>Welcome to our store.<\/p>"}},"guarantee-2":{"type":"guarantee","settings":{"icon":"recycle","icon_size":"medium","custom_icon":"","title":"Guarantee heading","title_size":"h4","text":"<p>Welcome to our store.<\/p>"}},"guarantee-3":{"type":"guarantee","settings":{"icon":"shield","icon_size":"medium","custom_icon":"","title":"Guarantee heading","title_size":"h4","text":"<p>Welcome to our store.<\/p>"}}},"block_order":["guarantee-0","guarantee-1","guarantee-2","guarantee-3"],"settings":{"layout":"default","column_alignment":"center","horizontal_content":false,"full_width":true,"show_divider":false,"heading":"Guarantees","heading_size":"h1","heading_tag":"h2","columns_mobile":"1","swipe_on_mobile":true,"use_custom_colors":false,"colors_icon":"#ffffff","colors_text":"#1a1b18","colors_background":"#ffffff","gradient_background":"","padding_top":72,"padding_bottom":36}},"collapsible-content":{"type":"collapsible-content","blocks":{"question-0":{"type":"collapsible_row","settings":{}},"question-1":{"type":"collapsible_row","settings":{}},"question-2":{"type":"collapsible_row","settings":{}},"question-3":{"type":"collapsible_row","settings":{}}},"block_order":["question-0","question-1","question-2","question-3"],"settings":{"open_first_collapsible_row":false,"narrow":true,"show_divider":false,"heading":"FAQs","heading_size":"h1","heading_alignment":"center","heading_tag":"h2","padding_top":36,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"show_divider":false,"heading":"You May Also Like","heading_size":"h1","heading_alignment":"center","heading_tag":"h2","columns_mobile":"1","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":true,"show_rating":true,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","settings":{"show_divider":false,"heading":"Recently Viewed","heading_size":"h1","heading_alignment":"center","heading_tag":"h2","columns_mobile":"1","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":true,"show_rating":true,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"testimonials":{"type":"testimonials","blocks":{"testimonial-0":{"type":"testimonial","settings":{"icon":"5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","image":"","author":"Author's name"}},"testimonial-1":{"type":"testimonial","settings":{"icon":"5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","image":"","author":"Author's name"}},"testimonial-2":{"type":"testimonial","settings":{"icon":"5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","image":"","author":"Author's name"}},"testimonial-3":{"type":"testimonial","settings":{"icon":"5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","image":"","author":"Author's name"}},"testimonial-4":{"type":"testimonial","settings":{"icon":"5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","image":"","author":"Author's name"}}},"block_order":["testimonial-0","testimonial-1","testimonial-2","testimonial-3","testimonial-4"],"settings":{"autorotate":false,"autorotate_speed":5,"show_divider":false,"heading":"Testimonials","heading_size":"h1","heading_alignment":"center","heading_tag":"h2","padding_top":36,"padding_bottom":36}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"Express yourself with","heading_size":"h1","heading_tag":"h2"}},"text":{"type":"text","settings":{"text":"<p>#instagram<\/p>","text_size":"typeset2","secondary_color":true}}},"block_order":["heading","text"],"settings":{"text_alignment":"center","mobile_text_alignment":"center","horizontal_content":false,"narrow":false,"show_divider":false,"use_custom_colors":false,"colors_text":"#212326","colors_background":"#ffffff","gradient_background":"","padding_top":36,"padding_bottom":28}},"gallery":{"type":"gallery","blocks":{"image-0":{"type":"image","settings":{"image":"","image_position":"center center","subheading":"","subheading_size":"h5","heading":"","heading_size":"h3","link":"","text_box_position":"middle-center"}},"image-1":{"type":"image","settings":{"image":"","image_position":"center center","subheading":"","subheading_size":"h4","heading":"","heading_size":"h3","link":"","text_box_position":"middle-center"}},"image-2":{"type":"image","settings":{"image":"","image_position":"center center","subheading":"","subheading_size":"h5","heading":"#summerMe","heading_size":"h3","link":"","text_box_position":"middle-center"}},"image-3":{"type":"image","settings":{"image":"","image_position":"center center","subheading":"","subheading_size":"h5","heading":"","heading_size":"h3","link":"","text_box_position":"middle-center"}},"image-4":{"type":"image","settings":{"image":"","image_position":"center center","subheading":"","subheading_size":"h5","heading":"","heading_size":"h3","link":"","text_box_position":"middle-center"}}},"block_order":["image-0","image-1","image-2","image-3","image-4"],"settings":{"per_row":5,"spacing_images":4,"image_height":280,"apply_overlay":true,"full_width":false,"show_divider":false,"heading":"","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","columns_mobile":"1","swipe_on_mobile":true,"mobile_image_height":160,"padding_top":0,"padding_bottom":4}}},"order":["empty-space","main","scrolling-promotion","guarantees","collapsible-content","product-recommendations","recently-viewed-products","testimonials","rich-text","gallery"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 36,
+        "mobile_height": 16
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_liquid_tQQmwV": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<style>\n.star-review-wrapper {\ndisplay: flex;\nalign-items: center;\ngap: 8px;\nflex-shrink: 0;\n}\n.star-icons svg {\nwidth: 20px;\nheight: 20px;\nfill: black; /* Your deep red color */\n}\n.review-text {\nfont-size: 16px;\nfont-weight: 500;\ncolor: #333;\nwhite-space: nowrap;\n}\n@media (max-width: 480px) {\n.star-review-wrapper {\nflex-direction: row;\njustify-content: center;\n}\n​\n}\n</style>\n<div class=\"star-review-wrapper\">\n<div class=\"star-icons\">\n<!-- 5 Rounded Stars -->\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n</div>\n<div class=\"review-text\">\n<strong>5</strong> by <strong>124+</strong> Customers\n</div>\n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "custom_liquid_n6BELr": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<section class=\"sale-timer\" aria-label=\"Sale countdown timer\">\n  <style>\n    .sale-timer{\n      width:100%;\n      padding:22px 12px;\n      display:flex;\n      justify-content:center;\n      background:##ff85d0;\n      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;\n    }\n    .sale-timer__wrap{\n      text-align:center;\n    }\n    .sale-timer__label{\n      font-size:24px;\n      font-weight:500;\n      color:#111;\n      margin:0 0 14px 0;\n      line-height:1.1;\n    }\n\n    .sale-timer__row{\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      gap:10px;\n    }\n\n    .sale-timer__box{\n      width:88px;\n      height:68px;\n      background:black;\n      color:#fff;\n      border-radius:6px;\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      font-size:34px;\n      font-weight:700;\n      letter-spacing:1px;\n      font-variant-numeric: tabular-nums;\n    }\n\n    .sale-timer__colon{\n      font-size:32px;\n      font-weight:700;\n      color:#ff2a2a;\n      line-height:1;\n      transform: translateY(-1px);\n      user-select:none;\n    }\n\n    @media (max-width:420px){\n      .sale-timer__label{ font-size:20px; }\n      .sale-timer__box{ width:72px; height:58px; font-size:30px; }\n      .sale-timer__colon{ font-size:28px; }\n      .sale-timer__row{ gap:8px; }\n    }\n  </style>\n\n  <div class=\"sale-timer__wrap\">\n    <div class=\"sale-timer__label\">Hurry! Sale ends in</div>\n\n    <div class=\"sale-timer__row\" role=\"timer\" aria-live=\"polite\">\n      <div class=\"sale-timer__box\" id=\"st-hours\">00</div>\n      <div class=\"sale-timer__colon\">:</div>\n      <div class=\"sale-timer__box\" id=\"st-mins\">00</div>\n      <div class=\"sale-timer__colon\">:</div>\n      <div class=\"sale-timer__box\" id=\"st-secs\">00</div>\n    </div>\n  </div>\n\n  <script>\n    (function () {\n      const durationHours = 12; // change if needed\n      const endAt = Date.now() + durationHours * 60 * 60 * 1000;\n\n      const h = document.getElementById(\"st-hours\");\n      const m = document.getElementById(\"st-mins\");\n      const s = document.getElementById(\"st-secs\");\n\n      const pad = n => String(n).padStart(2, \"0\");\n\n      function update(){\n        let diff = endAt - Date.now();\n        if(diff < 0) diff = 0;\n\n        const total = Math.floor(diff / 1000);\n        h.textContent = pad(Math.floor(total / 3600));\n        m.textContent = pad(Math.floor((total % 3600) / 60));\n        s.textContent = pad(total % 60);\n\n        if(diff === 0) clearInterval(timer);\n      }\n\n      update();\n      const timer = setInterval(update, 1000);\n    })();\n  </script>\n</section>"
+          }
+        },
+        "custom_liquid_AKmLHK": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 3-in-1 Styling Power</span> – Dry, style, and volumize your hair in one simple step for fast, effortless results.<br><br>\n\n<span style=\"font-weight: bold;\">💁‍♀️ Smooth & Frizz-Free</span> – Advanced ionic technology helps reduce frizz while enhancing shine for a sleek finish.<br><br>\n\n<span style=\"font-weight: bold;\">⏰ Save Time Every Day</span> – Powerful airflow and easy control cut your styling time in half.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Gentle & Safe on Hair</span> – Even heat distribution protects your hair and keeps it healthy-looking.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Salon Results at Home</span> – Achieve smooth, bouncy, and shiny hair without leaving your house.\n</div>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "⏰ Time Saving",
+            "content": "<p>Cuts your styling time in half.</p><p></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "🔥 3-in-1 Power",
+            "content": "<p>Dry, style & volumize in one step.</p><p></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_transfer": true,
+            "color_scheme": "accent-3"
+          }
+        },
+        "custom_liquid_3cL3Ay": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f5f5f5; font-size: 15px; border-radius: 13px; margin-top: 12px; margin-bottom: 12px; display: flex; align-items: center;\"> \n    <span class=\"em\" style=\"margin-right: 8px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#545454\">\n            <path d=\"M240-160q-50 0-85-35t-35-85H40v-440q0-33 23.5-56.5T120-800h560v160h120l120 160v200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H360q0 50-35 85t-85 35Zm0-80q17 0 28.5-11.5T280-280q0-17-11.5-28.5T240-320q-17 0-28.5 11.5T200-280q0 17 11.5 28.5T240-240ZM120-360h32q17-18 39-29t49-11q27 0 49 11t39 29h272v-360H120v360Zm600 120q17 0 28.5-11.5T760-280q0-17-11.5-28.5T720-320q-17 0-28.5 11.5T680-280q0 17 11.5 28.5T720-240Zm-40-200h170l-90-120h-80v120ZM360-540Z\"/>\n        </svg> \n    </span>\n    <span>Order now to receive in <span id=\"delivery-dates\" style=\"font-weight: bold;\"></span></span>\n</div>\n\n<script>\n    document.addEventListener('DOMContentLoaded', function() {\n        var currentDate = new Date();\n\n        var minDeliveryDate = new Date();\n        minDeliveryDate.setDate(currentDate.getDate() + 5); // 5 days from now\n\n        var maxDeliveryDate = new Date();\n        maxDeliveryDate.setDate(currentDate.getDate() + 7); // 7 days from now\n\n        var formatDate = function(date) {\n            var monthNames = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n              \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n            ];\n            var day = date.getDate();\n            var monthIndex = date.getMonth();\n            return monthNames[monthIndex] + \" \" + day;\n        };\n\n        var deliverySpan = document.getElementById('delivery-dates');\n        deliverySpan.textContent = formatDate(minDeliveryDate) + ' - ' + formatDate(maxDeliveryDate);\n    });\n</script>"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "custom_liquid_tQQmwV",
+        "title",
+        "custom_liquid_n6BELr",
+        "custom_liquid_AKmLHK",
+        "rating",
+        "price",
+        "countdown",
+        "variant_picker",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "buy_buttons",
+        "inventory_status",
+        "custom_liquid_3cL3Ay",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "media_size": "medium",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_featured_media": false,
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 72
+      }
+    },
+    "scrolling-promotion": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement-3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Smooth, shiny hair in minutes — no stress, no damage",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-3"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#f1ff34",
+        "colors_text": "#ffffff",
+        "colors_background": "#000000",
+        "gradient_background": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_DA8bfX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PH687X": {
+          "type": "heading",
+          "settings": {
+            "heading": "Effortless Styling",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_tFptkf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Style your hair quickly and easily without using multiple tools. Enjoy a smooth, polished look every day with less effort.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PH687X",
+        "text_tFptkf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2026-04-27ll_at_9.59.02_PM.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_gXHyGf": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_taFrJ6": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Salon results at home — fast, simple, and effortless",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_taFrJ6"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#f1ff34",
+        "colors_text": "#ffffff",
+        "colors_background": "#000000",
+        "gradient_background": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_8jJ9LM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4mk6cp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shiny, Healthy Hair",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_7rKGqW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Achieve soft, glossy results while keeping your hair protected from damage, so it looks healthy and full of life.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4mk6cp",
+        "text_7rKGqW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1756539319_php0502glk1ftmmdpy7u8Z.webp",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17774805110d521164": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_87d473e_4cy9gM": {
+          "type": "ai_gen_block_87d473e",
+          "settings": {
+            "heading": "Why choose us?",
+            "feature_column_label": "Features",
+            "us_column_label": "Us",
+            "others_column_label": "Others",
+            "feature_1": "3-in-1 Styling Tool",
+            "feature_1_us": true,
+            "feature_1_others": false,
+            "feature_2": "Reduces Frizz",
+            "feature_2_us": true,
+            "feature_2_others": false,
+            "feature_3": "Fast Drying",
+            "feature_3_us": true,
+            "feature_3_others": false,
+            "feature_4": "Gentle on Hair",
+            "feature_4_us": true,
+            "feature_4_others": false,
+            "feature_5": "Salon Results at Home",
+            "feature_5_us": true,
+            "feature_5_others": false,
+            "feature_6": "",
+            "feature_6_us": true,
+            "feature_6_others": false,
+            "feature_7": "",
+            "feature_7_us": true,
+            "feature_7_others": false,
+            "feature_8": "",
+            "feature_8_us": true,
+            "feature_8_others": false,
+            "feature_9": "",
+            "feature_9_us": true,
+            "feature_9_others": false,
+            "feature_10": "",
+            "feature_10_us": true,
+            "feature_10_others": false,
+            "desktop_width_percent": 100,
+            "background_color": "#ffffff",
+            "heading_color": "#000000",
+            "heading_size": 32,
+            "header_bg_color": "#000000",
+            "header_text_color": "#ffffff",
+            "header_font_size": 16,
+            "text_color": "#1a1b18",
+            "text_size": 14,
+            "row_alt_bg_color": "#f9f9f9",
+            "border_color": "#d2d5d9",
+            "border_thickness": 1,
+            "border_radius": 8,
+            "padding": 30,
+            "cell_padding": 16,
+            "checkmark_color": "#008060",
+            "cross_color": "#d72c0d",
+            "icon_size": 24
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_87d473e_4cy9gM"
+      ],
+      "settings": {}
+    },
+    "collapsible-content": {
+      "type": "collapsible-content",
+      "blocks": {
+        "question-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is this suitable for all hair types?",
+            "row_content": "<p>Yes, it works on straight, wavy, and curly hair.</p>",
+            "page": ""
+          }
+        },
+        "question-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will it damage my hair?",
+            "row_content": "<p>No, it uses even heat distribution to help protect your hair while styling.</p><p></p>",
+            "page": ""
+          }
+        },
+        "question-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to style hair?",
+            "row_content": "<p>Most users can dry and style their hair in just a few minutes.</p><p></p>",
+            "page": ""
+          }
+        },
+        "question-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I clean the brush?",
+            "row_content": "<p>Make sure the device is unplugged and cool, then gently remove hair from the brush.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-0",
+        "question-1",
+        "question-2",
+        "question-3"
+      ],
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": true,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17774801508c9ca2df": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_HQDeiF": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_HQDeiF"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Delivery All Over Lebanon",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "chat_bubble",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 Support",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "price_tag",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Price-match guarantee",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "star",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Cash On Delivery",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": true,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 72,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "show_divider": false,
+        "heading": "Recently Viewed",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "scrolling-promotion",
+    "image_with_text_DA8bfX",
+    "scrolling_promotion_gXHyGf",
+    "image_with_text_8jJ9LM",
+    "17774805110d521164",
+    "collapsible-content",
+    "17774801508c9ca2df",
+    "guarantees",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

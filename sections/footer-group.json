@@ -43,7 +43,7 @@
         "colors_heading": "#ffffff",
         "colors_link": "#ffffff",
         "colors_border": "#ffffff",
-        "colors_background": "#212326",
+        "colors_background": "#000000",
         "gradient_background": ""
       }
     }
