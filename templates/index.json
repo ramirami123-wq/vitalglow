@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1777316813_faa68d85-a400-434d-bf5a-4fde9c766cd1.jpg",
+            "image_mobile": "shopify://shop_images/1756539319_php0502glk1ftmmdpy7u8Z.webp",
             "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
