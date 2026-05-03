@@ -42,7 +42,7 @@
         "custom_liquid_AKmLHK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 3-in-1 Styling Power</span> – Dry, style, and volumize your hair in one simple step for fast, effortless results.<br><br>\n\n<span style=\"font-weight: bold;\">💁‍♀️ Smooth & Frizz-Free</span> – Advanced ionic technology helps reduce frizz while enhancing shine for a sleek finish.<br><br>\n\n<span style=\"font-weight: bold;\">⏰ Save Time Every Day</span> – Powerful airflow and easy control cut your styling time in half.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Gentle & Safe on Hair</span> – Even heat distribution protects your hair and keeps it healthy-looking.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Salon Results at Home</span> – Achieve smooth, bouncy, and shiny hair without leaving your house.\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Lift & Firm Your Skin</span> – Microcurrent technology helps tighten and tone your face and neck for a youthful look.<br><br>\n\n<span style=\"font-weight: bold;\">💡 LED Skin Therapy</span> – Supports collagen production and improves overall skin appearance.<br><br>\n\n<span style=\"font-weight: bold;\">🔊 Deep Cleansing & Absorption</span> – Ultrasonic vibration enhances product absorption and cleans pores effectively.<br><br>\n\n<span style=\"font-weight: bold;\">🏡 Salon Results at Home</span> – Enjoy smoother, firmer, and radiant skin without expensive treatments.\n\n</div>"
           }
         },
         "rating": {
@@ -84,8 +84,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "⏰ Time Saving",
-            "content": "<p>Cuts your styling time in half.</p><p></p>",
+            "heading": "Lift & Firm",
+            "content": "<p>Helps tone and tighten skin</p><p></p><p></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -95,8 +95,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "🔥 3-in-1 Power",
-            "content": "<p>Dry, style & volumize in one step.</p><p></p>",
+            "heading": "LED Therapy",
+            "content": "<p>Boosts collagen & glow</p><p></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -188,7 +188,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Smooth, shiny hair in minutes — no stress, no damage",
+            "text": "Visible lift and glow in just minutes a day",
             "text_size": 16,
             "link": ""
           }
@@ -216,7 +216,7 @@
         "heading_PH687X": {
           "type": "heading",
           "settings": {
-            "heading": "Effortless Styling",
+            "heading": "Professional Care at Home",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -224,7 +224,7 @@
         "text_tFptkf": {
           "type": "text",
           "settings": {
-            "text": "<p>Style your hair quickly and easily without using multiple tools. Enjoy a smooth, polished look every day with less effort.</p>",
+            "text": "<p><br/>Enjoy a simple, effective skincare routine that delivers smoother, brighter, and more youthful-looking skin without the need for salon visits.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -236,7 +236,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/WhatsApp_Image_2026-04-27ll_at_9.59.02_PM.jpg",
+        "image": "shopify://shop_images/S515ce7cb0649416b8994a96569dc5fbdR.avif",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -250,6 +250,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -269,7 +270,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Salon results at home — fast, simple, and effortless",
+            "text": "Your at-home solution for smoother, firmer skin",
             "text_size": 16,
             "link": ""
           }
@@ -297,7 +298,7 @@
         "heading_4mk6cp": {
           "type": "heading",
           "settings": {
-            "heading": "Shiny, Healthy Hair",
+            "heading": "Advanced Skin Rejuvenation",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -305,7 +306,7 @@
         "text_7rKGqW": {
           "type": "text",
           "settings": {
-            "text": "<p>Achieve soft, glossy results while keeping your hair protected from damage, so it looks healthy and full of life.</p>",
+            "text": "<p><br/>This device combines microcurrent and LED technology to help firm, lift, and improve the overall appearance of your skin with consistent use.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -317,7 +318,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1756539319_php0502glk1ftmmdpy7u8Z.webp",
+        "image": "shopify://shop_images/ae38ba82958d406dba56dd4d12f551a1_tplv-fhlh96nyum-crop-webp_1500_1500.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -331,6 +332,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -351,19 +353,19 @@
             "feature_column_label": "Features",
             "us_column_label": "Us",
             "others_column_label": "Others",
-            "feature_1": "3-in-1 Styling Tool",
+            "feature_1": "Microcurrent Lifting",
             "feature_1_us": true,
             "feature_1_others": false,
-            "feature_2": "Reduces Frizz",
+            "feature_2": "LED Skin Therapy",
             "feature_2_us": true,
             "feature_2_others": false,
-            "feature_3": "Fast Drying",
+            "feature_3": "Ultrasonic Cleansing",
             "feature_3_us": true,
             "feature_3_others": false,
-            "feature_4": "Gentle on Hair",
+            "feature_4": "Adjustable Intensity",
             "feature_4_us": true,
             "feature_4_others": false,
-            "feature_5": "Salon Results at Home",
+            "feature_5": "Safe for Daily Use",
             "feature_5_us": true,
             "feature_5_others": false,
             "feature_6": "",
@@ -414,32 +416,40 @@
         "question-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is this suitable for all hair types?",
-            "row_content": "<p>Yes, it works on straight, wavy, and curly hair.</p>",
+            "heading": "How often should I use the device?",
+            "row_content": "<p><br/>For best results, use it 3–5 times per week for a few minutes per session.<br/><br/></p>",
             "page": ""
           }
         },
         "question-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will it damage my hair?",
-            "row_content": "<p>No, it uses even heat distribution to help protect your hair while styling.</p><p></p>",
+            "heading": "Is it safe for all skin types?",
+            "row_content": "<p><br/> Yes, the device is designed to be gentle and suitable for most skin types with adjustable intensity levels.<br/><br/></p><p></p>",
             "page": ""
           }
         },
         "question-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How long does it take to style hair?",
-            "row_content": "<p>Most users can dry and style their hair in just a few minutes.</p><p></p>",
+            "heading": "When will I see results?",
+            "row_content": "<p><br/>Some users notice a glow after the first use, while firmer, smoother skin typically appears after a few weeks of consistent use.<br/><br/></p>",
             "page": ""
           }
         },
         "question-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I clean the brush?",
-            "row_content": "<p>Make sure the device is unplugged and cool, then gently remove hair from the brush.</p>",
+            "heading": "Do I need to use skincare products with it?",
+            "row_content": "<p><br/>Yes, using a serum or gel helps the device glide smoothly and improves absorption.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wh7GX7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use it on both face and neck?",
+            "row_content": "<p><br/>Yes, it is specifically designed for safe use on both areas.<br/><br/></p>",
             "page": ""
           }
         }
@@ -448,7 +458,8 @@
         "question-0",
         "question-1",
         "question-2",
-        "question-3"
+        "question-3",
+        "collapsible_row_wh7GX7"
       ],
       "settings": {
         "open_first_collapsible_row": false,
